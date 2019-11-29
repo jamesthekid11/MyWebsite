@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+ <head>
+  <title>This is my Website</title>
+ </head> 
+ <body>
+  <h2>Hello, Mom and Dad. Hope you are having a good time in Alabama.<br> Miss you guys. I'm sad I'm here. Love you.</h2>
+  <br>
+  <br>
+  <br>
+  <h2>Here is a picture of Birmingham, I'd like to go there next time.</h2>
+  <br> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Birmingham_cityscape_view_2010.jpg" height="600" width="600">
+  <br>
+  <br> 
+  <h1>I made this entirely out of code, so it's pretty basic.</h1>
+  <br>
+  <br> 
+  <a href="https://www.youtube.com/watch?v=Ok7kcGEI1oM"><h1>Video :)</h1></a> 
+ </body>
+</html>
